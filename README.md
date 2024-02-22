@@ -16,8 +16,8 @@ Demak biz har klasterni quyidagicha ta'riflashimiz mumkin:<br>
 
 <br><br>
 Faylni yuklab olib, Anaconda: Jupyter ,Google Colab, Visual Studio : Jupyter kabi code editor va online servislarda ishlatib ko'rish mumkin.<br>
-Agar shu yerni o'zida online ishlatib ko'rishni istasangiz ,[" Customer_churn.ipynb "] fayliga kiring va " Open in colab " tugmasini bosing <br>
-<br><strong>Ishlatilgan DataSet uchun havola :</strong> [" https://github.com/anvarnarz/praktikum_datasets/blob/main/E-Commerce-Dataset.xlsx?raw=true "]<br>
+Agar shu yerni o'zida online ishlatib ko'rishni istasangiz ,[" Amaliyot_Clustering.ipynb "] fayliga kiring va " Open in colab " tugmasini bosing <br>
+<br><strong>Ishlatilgan DataSet uchun havola :</strong> [" https://raw.githubusercontent.com/anvarnarz/praktikum_datasets/main/customer_segmentation.csv "]<br>
 <p><strong>Diqqat :</strong> Bu DataSet dan faqat amaliyot uchun foydalanildi.</p>
 <br><br>
 <strong>Ishlatilgan texnologiya va modullar :</strong><br>
